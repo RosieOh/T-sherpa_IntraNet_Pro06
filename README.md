@@ -8,7 +8,7 @@
 
 |      오태훈                            |                                                       
 |:--------------------------------------:|
-|                                        | 
+|![image](https://github.com/RosieOh/T-sherpa_IntraNet_Pro06/assets/104690434/582d0df7-7e2f-4df9-ba2d-0b97951e430e)    | 
 | [@RosieOh](https://github.com/rosieoh) |
 
 
