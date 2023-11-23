@@ -16,7 +16,7 @@
 
 ### 📚 Tech Stack 
 #### 💻 Development
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,javascript,jquery,react,node& perline="/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,javascript,jquery,react,node.js& perline="/>
 
 #### ⌛ Developed Period
 ##### 2023.11.04 ~ 진행중
@@ -42,13 +42,6 @@
 </p>
 
 <br>
-
-<!--
-[js]: /images/stack/javascript.svg
-[ts]: /images/stack/typescript.svg
-[react]: /images/stack/react.svg
-[node]: /images/stack/node.svg
--->
 
 ## 💡 Commit Convention
 
