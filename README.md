@@ -8,9 +8,10 @@
 
 |      오태훈                            |                                                       
 |:--------------------------------------:|
-|<div style: "width: 200px; height:100px;">![image](https://github.com/RosieOh/T-sherpa_IntraNet_Pro06/assets/104690434/582d0df7-7e2f-4df9-ba2d-0b97951e430e)</div>    | 
+|![image](https://github.com/RosieOh/T-sherpa_IntraNet_Pro06/assets/104690434/582d0df7-7e2f-4df9-ba2d-0b97951e430e width="200" height="400"/)  | 
 | [@RosieOh](https://github.com/rosieoh) |
 
+<img src="https://github.com/RosieOh/T-sherpa_IntraNet_Pro06/assets/104690434/582d0df7-7e2f-4df9-ba2d-0b97951e430e  width="200" height="400"/>
 
 ## 기술 스택
 
