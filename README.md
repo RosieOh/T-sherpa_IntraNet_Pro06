@@ -19,7 +19,7 @@
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,javascript,jquery,react,express& perline="/>
 
 #### ⌛ Developed Period
-##### 2023.11.04 ~ 진행중
+##### 2023.11.23 ~ 진행중
 
 
 <br>
